@@ -1,0 +1,17 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Pruebas en <GifItem /> Debe hacer match con el snapshoot  1`] = `
+<div>
+  <div
+    class="card"
+  >
+    <img
+      alt="Fornite"
+      src="htpp://pruebas.com/fornite"
+    />
+    <p>
+      Fornite
+    </p>
+  </div>
+</div>
+`;
